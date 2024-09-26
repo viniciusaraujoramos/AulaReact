@@ -2,7 +2,7 @@ import videos from "../../json/videos.json";
 import styles from "./Category.module.css";
 
 export const categories = [
-    "Geografia",
+    "Animes",
     "Como fazer e usar",
     "Astronomia e Geografia",
     "Climatologia, Meteorologia, Vegetação",
